@@ -18,6 +18,9 @@ and download the ChromeDriver executable file.
   * You have to enter the names of the contacts and the groups in the ***all_names*** list.
 
   * Also give the path to the attachment you want to send. If any. Or comment out that part.
+  
+  * And feel free to change the timings in sleep(***secs***). I have made it suitable for
+  my internet connection speed.
 
 ###### Now, you can enjoy the complex way of using WhatsApp Broadcast feature.
 
