@@ -15,12 +15,14 @@ and download the ChromeDriver executable file.
 ### Using it 
   * Give the path to your chromedriver.exe file in your system, in place of .Chrome('***here***').
 
-  * You have to enter the names of the contacts and the groups in the ***all_names*** list.
+  * You have to enter the names of the contacts and the groups you want to send the messages to,
+  in the ***all_names*** list.
 
-  * Also give the path to the attachment you want to send. If any. Or comment out that part.
+  * Also give the path to the attachment you want to send, and assign it to filepath. If any, or just 
+  comment out that part.
   
-  * And feel free to change the timings in sleep(***secs***). I have made it suitable for
-  my internet connection speed.
+  * And feel free to change the timings in sleep(***secs***). I have made it suitable for my internet 
+  connection speed. You can do yours.
 
 ###### Now, you can enjoy the complex way of using WhatsApp Broadcast feature.
 
