@@ -15,7 +15,7 @@ driver.get('https://web.whatsapp.com/')
 
 all_names = ['A', 'B', 'C', '...']
 sleep(2)
-input('Enter anything after scanning QR code')
+input('Press Enter after scanning QR code')
  
 for name in all_names:
  
@@ -46,9 +46,9 @@ for name in all_names:
     msg_box = driver.find_element_by_xpath('//div[@dir = "ltr"]') 
     msg_box.send_keys(msg)
             
-    sleep(5)
+    sleep(4)
             
     send_button = driver.find_element_by_xpath('//span[@data-icon="send-light"]')
     send_button.click()
         
-    sleep(4)
+    sleep(3)
