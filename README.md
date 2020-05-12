@@ -4,12 +4,12 @@
 ### Getting Started
   * __Python3__ should be installed on your computer.
   
-  * __Selenium__ should be installed on your computer too.
-    You can install by opening your Terminal/Command prompt and and then typing ```pip3 install selenium``` 
-    and then hitting enter.
+  * __Selenium__ should be installed on your computer too.\
+    You can install it by opening your Terminal/Command prompt and and then typing ```pip3 install selenium``` 
+    and then hit enter.
 
-  * __ChromeDriver__ must be installed on your computer. You can go [here](https://chromedriver.chromium.org/downloads), 
-and download the ChromeDriver executable file.
+  * __ChromeDriver__ must be installed on your computer.\
+  You can go [here](https://chromedriver.chromium.org/downloads), and download the ChromeDriver executable file.
 
 
 ### Using it 
